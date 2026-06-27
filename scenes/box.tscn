@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bidub2gnpkejt"]
+
+[ext_resource type="Texture2D" uid="uid://dsrjr61ufmtaj" path="res://assets/box.png" id="1_3inec"]
+
+[node name="Box" type="Node2D" unique_id=934744992]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2089465125]
+scale = Vector2(0.033, 0.033)
+texture = ExtResource("1_3inec")
